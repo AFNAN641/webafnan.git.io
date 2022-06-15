@@ -1,0 +1,41 @@
+.jumbotron {
+  padding-top: 5rem;
+  padding-bottom: 5%;
+  background-color: #232931;
+  color: white;
+}
+
+#about {
+  background-color: #232931;
+  color: white;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 25%;
+  width: 100px;
+  margin: auto;
+  height: 100px;
+  color: white;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+#project {
+  background-color: #232931;
+}
+
+#contact {
+  background-color: #232931;
+}
+section {
+  padding-top: 5rem;
+}
